@@ -1,0 +1,2 @@
+# HQZCASH
+Le HQZcash est créé par le fondateur de HQZconsulting.  HQZcash contribuera au financement de jeunes entrepreneurs avec des idées novatrices.  Toute entreprise créée ou soutenue par HQZcash acceptera HQZcash en retour.  HQZconsulting gagnera entre 10% et 51% des actions de chaque entreprise financée ou créée par HQZconsulting.  À la fin de chaque année, 25% des dividendes de HQZconsulting seront versés au parc de cryptomonnaie de HQZcash afin que les investisseurs de HQZcash retrouvent un retour sur leur investissement. 
