@@ -7,10 +7,9 @@ http://dev.pywaves.org/assets/5XSrECV3je1H9b5pK6UM1hcitYPB8vvWYXuNUbxBSGqM
 Lien livre blanc: https://hqzcash.io/wp-content/uploads/2021/03/npi-livreblanc.pdf
 Le HQZCASH est créé par le fondateur de HQZconsulting.  
 HQZCASH contribuera au financement de jeunes entrepreneurs avec des idées novatrices.  
-Toute entreprise créée ou soutenue par HQZCASH acceptera HQZcash en retour.
-HQZ Consulting¹⁰ est une société fondée par Johan Boiteux, apporteur d'affaires, analyste
-Blockchain et consultant spécialisé en blockchain et crypto-monnaie. Convaincus que la
-blockchain et les crypto-monnaies ont le potentiel pour devenir l'avenir de notre économie,
+HQZ Consulting est une société fondée par Johan Boiteux, apporteur d'affaires, analyste
+Blockchain et consultant spécialisé en blockchain et crypto-monnaie. 
+Convaincus que la blockchain et les crypto-monnaies ont le potentiel pour devenir l'avenir de notre économie,
 Johan Boiteux et ses partenaires partagent leurs expériences dans ces domaines pour apporter
 une meilleure compréhension du système financier qui nous entoure et qui est bientôt au bord de
 l'effondrement.
